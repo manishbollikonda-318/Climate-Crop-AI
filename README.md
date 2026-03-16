@@ -44,7 +44,7 @@ python app.py
 
 ### 3. Open in Browser
 
-Visit: **http://localhost:5000**
+Visit: **https://manishbollikonda-318.github.io/AICROP-DETECTOR/**
 
 ---
 
